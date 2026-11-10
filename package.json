@@ -1,0 +1,13 @@
+
+{
+  "name": "safe-telegram-admin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram administrative webhook for Vercel",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "vercel dev"
+  }
+}
